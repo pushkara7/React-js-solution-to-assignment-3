@@ -1,0 +1,15 @@
+.App{
+
+}
+
+.App ul{
+	list-style: none;
+	width:100%;
+	text-align: center;
+}
+
+.App ul>li{
+	display :inline-block;
+	margin:20px;
+}
+
